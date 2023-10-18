@@ -1,0 +1,121 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemy",
+      "location": "İzmir/Bayraklı",
+      "status": "Process",
+      "type": "Full Time",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Interview",
+      "type": "Full Time",
+      "date": "3/29/2023"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Process",
+      "type": "Remote",
+      "date": "10/3/2023"
+    },
+    {
+      "id": 4,
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Rejected",
+      "type": "Full Time",
+      "date": "10/2/2020"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Interview",
+      "type": "Part-Time",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Process",
+      "type": "Full Time",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Process",
+      "type": "Full Time",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Interview",
+      "type": "Full Time",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Process",
+      "type": "Part-Time",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "IU EXPERT",
+      "company": "X",
+      "location": "LOS ANGELES",
+      "status": "Process",
+      "type": "Full Time",
+      "date": "2023-10-18T11:19:19.414Z",
+      "id": 10
+    },
+    {
+      "position": "dasdsa",
+      "company": "sdasdasd",
+      "location": "adsadsad",
+      "status": "Rejected",
+      "type": "Internship",
+      "id": "83dce621-cb3f-4bb5-a3f3-23f4cef0ba2c",
+      "date": "2023-10-18T12:17:40.685Z"
+    },
+    {
+      "position": "React-Developer",
+      "company": "X",
+      "location": "Los Angeles",
+      "status": "Interview",
+      "type": "Full Time",
+      "id": "62ee2613-18e9-471f-8c95-ac345edb8601",
+      "date": "2023-10-18T12:36:28.574Z"
+    },
+    {
+      "position": "sda",
+      "company": "sdad",
+      "location": "wdaw",
+      "status": "Interview",
+      "type": "Remote",
+      "id": "d19a5eab-d734-44f6-97f0-20ad452326b3",
+      "date": "2023-10-18T12:36:59.521Z"
+    }
+  ]
+}
